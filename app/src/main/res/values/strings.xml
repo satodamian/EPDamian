@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EPDamian</string>
+    <string name="Carreras">Carreras</string>
+    <string name="Rector">Rector</string>
+    <string name="VideoUNTELS">VideoUNTELS</string>
+    <string name="bicentenario">Bicentenario</string>
+    <string name="Calculadora">Calculadora</string>
+    <string name="salir">Salir</string>
+
+
+</resources>

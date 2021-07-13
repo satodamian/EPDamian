@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Carreras"
+        android:title="@string/Carreras" />
+    <item
+        android:id="@+id/VideoUNTELS"
+        android:title="@string/VideoUNTELS" />
+    <item
+        android:id="@+id/Rector"
+        android:title="@string/Rector" />
+    <item
+        android:id="@+id/Bicentenario"
+        android:title="@string/bicentenario" />
+    <item android:title="@string/Calculadora" />
+    <item
+        android:id="@+id/Salir"
+        android:title="@string/salir" />
+</menu>
